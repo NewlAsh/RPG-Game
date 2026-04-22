@@ -3,6 +3,8 @@
 A simple browser-based guided RPG built using JavaScript.
 This project focuses on learning core programming concepts through an interactive, choice-based game.
 
+The only reason this repo is over here is the enjoyment I get from what I build
+
 ---
 
 ## 🚀 Features

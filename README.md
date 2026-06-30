@@ -57,7 +57,3 @@ This project was created as a beginner-friendly way to understand:
 Feel free to fork this repository and improve the game.
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use.
